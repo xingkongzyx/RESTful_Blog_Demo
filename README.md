@@ -1,5 +1,11 @@
 # RESTful_Blog_Demo
 
+
+![1](https://user-images.githubusercontent.com/36606851/68806116-6f0d0380-0622-11ea-8425-5d5974ad781d.png)
+![2](https://user-images.githubusercontent.com/36606851/68806123-72a08a80-0622-11ea-82c7-e37f33b51f65.png)
+![3](https://user-images.githubusercontent.com/36606851/68806127-73d1b780-0622-11ea-8bf6-669cd9f891a1.png)
+
+
 ### Project Info: 
 RESTful Blog App is a web application with best applications of RESTful Routing using NodeJS, ExpressJS for the back-end, and Semantic UI in the front-end. It is made while pursuing The Web Developer Bootcamp course on Udemy. Home page shows a list of all the blog posts, and users can add a new post with a featured image, edit or delete existing post. 
 
