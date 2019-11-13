@@ -2,7 +2,7 @@
 Using "npm install" to install all required dependecies in package.json file 
 Please open MongoDB database at first using "mongod" command, then using "node app.js" to open the server, the port assigned is 3000.
 
-**RESTful Blog App** is a web application developed with best applications of RESTful Routing using Node.JS, Express.JS, Embedded JavaScript (EJS) and more. It is made while pursuing [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course on [Udemy](https://www.udemy.com/). This 40+ hour course covers HTML, CSS, Javascript, Node, Express, MongoDB, Git, and a bunch of other smaller topics along the way.
+**RESTful Blog App** is a web application with best applications of RESTful Routing using NodeJS, ExpressJS for the back-end, and Semantic UI in the front-end. It is made while pursuing The Web Developer Bootcamp course on Udemy. Home page shows a list of all the blog posts, and users can add a new post with a featured image, edit or delete existing post. 
 
 ### Installation:
 Using "npm install" to install all required dependecies listed in package.json file 
@@ -27,12 +27,4 @@ Then open MongoDB database at first, finally enter "node app.js" to open the ser
 * **public/css** directory contains CSS to create better interface.
 * **package.json** file contains the information towards the various frameworks that were installed within the course of this project.
 
-### Frameworks & Middlewares:
-
-* **[ExpressJS](https://expressjs.com/)** is used for Server Side Routing applications.
-* **[MongooseJS](http://mongoosejs.com/)** is used for Back-End Database operations with MongoDB NoSQL Database.
-* **[Body-Parser](https://github.com/expressjs/body-parser/)** is used to Parse the data that was received as a result of HTTP POST request.
-* **[Method-Override](https://github.com/expressjs/method-override)** is used to override the HTTP verb to implement PUT and DELETE methods.
-* **[Express.Static()](https://expressjs.com/en/starter/static-files.html)** is used to serve the Static files CSS, JS, etc. in the directory as specified.
-* **Sanitizer** is used to sanitize the contents of HTML inputs and keeps the Database Safe.
 
