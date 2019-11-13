@@ -1,8 +1,7 @@
 # RESTful_Blog_Demo
-Using "npm install" to install all required dependecies in package.json file 
-Please open MongoDB database at first using "mongod" command, then using "node app.js" to open the server, the port assigned is 3000.
 
-**RESTful Blog App** is a web application with best applications of RESTful Routing using NodeJS, ExpressJS for the back-end, and Semantic UI in the front-end. It is made while pursuing The Web Developer Bootcamp course on Udemy. Home page shows a list of all the blog posts, and users can add a new post with a featured image, edit or delete existing post. 
+### Project Infor: 
+RESTful Blog App is a web application with best applications of RESTful Routing using NodeJS, ExpressJS for the back-end, and Semantic UI in the front-end. It is made while pursuing The Web Developer Bootcamp course on Udemy. Home page shows a list of all the blog posts, and users can add a new post with a featured image, edit or delete existing post. 
 
 ### Installation:
 Using "npm install" to install all required dependecies listed in package.json file 
