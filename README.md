@@ -20,11 +20,4 @@ Then open MongoDB database at first, finally enter "node app.js" to open the ser
 | Update  | /blogs/:id      | PUT       | Update a particular blog, then redirect somewhere | Blog.findByIdAndUpdate() |
 | Destroy | /blogs/:id      | DELETE    | Delete a particular blog, then redirect somewhere | Blog.findByIdAndRemove() |
 
-### Description:
-
-* **app.js** is the main file that is the heart of our NodeJS web application and contains the RESTful Routes defined for each event.
-* **views** directory contains the relevant files, the EJS templates, that render on each event.
-* **public/css** directory contains CSS to create better interface.
-* **package.json** file contains the information towards the various frameworks that were installed within the course of this project.
-
 
